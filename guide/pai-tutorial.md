@@ -56,4 +56,8 @@ PAI を返済するには [Mint](https://partyparrot.finance/mint) に移動し�
 
 # 金庫の管理
 
+[Vaults](https://partyparrot.finance/vaults) に移動すれば、金庫の内容を表示したり、金庫の管理をすることができます。
+
+このページでは、金庫の情報を確認し、PAI の発行と返済を行います。
+
 ![金庫の管理](images/list-vaults.8ec3f6b7.png)
